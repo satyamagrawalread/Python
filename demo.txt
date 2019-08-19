@@ -1,0 +1,4 @@
+hi="HELLO THERE"
+name="ANA"
+greet=hi + name
+print(greet)
