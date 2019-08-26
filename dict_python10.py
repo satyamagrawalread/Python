@@ -6,7 +6,6 @@ for i in range(1,n+1):
     p['data'+str(i)]=input("data"+str(i)+"value: ")
 print(p)
 c=p.values()
-print(c)
 s=0
 for i in c:
     k=int(i)
